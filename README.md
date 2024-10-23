@@ -7,4 +7,4 @@
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Atul-vaibhav/Number-Guessing-Game.git
